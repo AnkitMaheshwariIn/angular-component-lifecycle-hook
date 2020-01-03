@@ -1,0 +1,18 @@
+<app-comments *ngFor="let c of comments" [comment]="c">
+  <span class="title">{{ c.title }}</span>
+  <h3 class="description">{{ c.description }}</h3>
+</app-comments>
+
+<br>
+<hr>
+
+<p>
+  <button type="button"
+          class="btn btn-success"
+          (click)="addComment()">Add Comment
+  </button>
+  <button type="button"
+          class="btn btn-danger"
+          (click)="clearAllComments()">Clear All Comments
+  </button>
+</p>
