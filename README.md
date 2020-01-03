@@ -15,7 +15,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 ## Learn More: Angular Project with Lifecycle Hooks.
-[Click here 👆 ](https://www.codewithchintan.com/angular-project-with-lifecycle-hooks/)
+[Click Here 👆 ](https://www.codewithchintan.com/angular-project-with-lifecycle-hooks/)
 
 ## Read on Medium:
-[Click here 👆 ](https://medium.com/@AnkitMaheshwariIn/angular-project-with-lifecycle-hooks-understand-ngoninit-in-depth-b9919ad09e6)
+[Click Here 👆 ](https://medium.com/@AnkitMaheshwariIn/angular-project-with-lifecycle-hooks-understand-ngoninit-in-depth-b9919ad09e6)
